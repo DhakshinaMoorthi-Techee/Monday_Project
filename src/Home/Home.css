@@ -1,0 +1,31 @@
+.home h1 {
+  font-weight: 600;
+  font-size: 4.5rem;
+  color: rgb(51, 51, 51);
+  text-align: center;
+  line-height: 85px;
+  margin-top: 55px;
+  margin-bottom: 30px;
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.main-header {
+  width: 50%;
+}
+
+.home h2 {
+  font-size: 1.375rem;
+  line-height: 40px;
+  text-align: center;
+  color: #333333;
+}
+
+.checkbox-selections {
+
+}
