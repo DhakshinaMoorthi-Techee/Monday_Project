@@ -1,0 +1,21 @@
+.inner-dashboard-div{
+    
+}
+
+.inner-dashboard-div img {
+    max-height: 69px;
+    max-width: 118px;
+}
+
+.dashboard{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 90%;
+}
+
+.main-dashboard {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
